@@ -10,6 +10,9 @@ class UsersController < ApplicationController
     end
   end
 
+  def desyroy
+  end
+
   private
 
   def user_params
